@@ -1,0 +1,16 @@
+.article {
+    background-color: white;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.article > h2 {
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.Link {
+    padding: 10px;
+    margin: 10px;
+    color: red;
+}
